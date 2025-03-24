@@ -5,6 +5,6 @@ data
 /pyproject.toml
 poetry.lock
 dist
-clients/python/moondream/torch
 .vscode/launch.json
 wandb
+.DS_Store
